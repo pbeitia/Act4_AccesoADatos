@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<teatro>
+    <asistentes>
+        <asistente id="1">
+            <apellidos>Recio</apellidos>
+            <edad>20</edad>
+            <nombre>Andrea</nombre>
+        </asistente>
+        <asistente id="2">
+            <apellidos>Peña</apellidos>
+            <edad>47</edad>
+            <nombre>Ángel</nombre>
+        </asistente>
+        <asistente id="3">
+            <apellidos>Álvarez</apellidos>
+            <edad>48</edad>
+            <nombre>Benito</nombre>
+        </asistente>
+        <asistente id="4">
+            <apellidos>Beitia</apellidos>
+            <edad>19</edad>
+            <nombre>Pablo</nombre>
+        </asistente>
+        <asistente id="5">
+            <apellidos>Gil</apellidos>
+            <edad>56</edad>
+            <nombre>Montse</nombre>
+        </asistente>
+    </asistentes>
+    <direccion>C. de Manuela Malasaña, 6, 28004 Madrid</direccion>
+    <nombre>Teatro Maravillas</nombre>
+</teatro>
