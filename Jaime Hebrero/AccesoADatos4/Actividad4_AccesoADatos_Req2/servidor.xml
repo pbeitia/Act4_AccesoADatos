@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<servidor>
+    <jugadores>
+        <jugador id="1">
+            <apellidos>Nitoi</apellidos>
+            <edad>32</edad>
+            <nombre>Eve</nombre>
+        </jugador>
+        <jugador id="2">
+            <apellidos>Hebrero</apellidos>
+            <edad>23</edad>
+            <nombre>jaime</nombre>
+        </jugador>
+        <jugador id="3">
+            <apellidos>Martin</apellidos>
+            <edad>26</edad>
+            <nombre>Victor</nombre>
+        </jugador>
+        <jugador id="4">
+            <apellidos>Gil</apellidos>
+            <edad>17</edad>
+            <nombre>Pablo</nombre>
+        </jugador>
+        <jugador id="5">
+            <apellidos>Sanchez</apellidos>
+            <edad>20</edad>
+            <nombre>Alvaro</nombre>
+        </jugador>
+    </jugadores>
+    <nombre>Ninavee</nombre>
+    <region>Europa</region>
+</servidor>
