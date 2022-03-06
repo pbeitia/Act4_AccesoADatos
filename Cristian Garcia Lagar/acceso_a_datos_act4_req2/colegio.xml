@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<colegio id="1">
+<nombre>Colegio1</nombre>
+<direccion><ciudad>Ciudad1</ciudad><cp>06660</cp><nombreVia>Avd Avenida Nº1</nombreVia><provincia>Provincia1</provincia></direccion><alumnos><alumno id="1"><nombre>Alumno1</nombre><apellido>Apellido1</apellido><edad>14</edad><direccion><ciudad>Ciudad1</ciudad><cp>06660</cp><nombreVia>C/ Calle Nº1</nombreVia><provincia>Provincia1</provincia></direccion></alumno><alumno id="2"><nombre>Alumno2</nombre><apellido>Apellido2</apellido><edad>15</edad><direccion><ciudad>Ciudad1</ciudad><cp>06660</cp><nombreVia>C/ Calle Nº2</nombreVia><provincia>Provincia1</provincia></direccion></alumno><alumno id="3"><nombre>Alumno3</nombre><apellido>Apellido3</apellido><edad>16</edad><direccion><ciudad>Ciudad1</ciudad><cp>06660</cp><nombreVia>C/ Calle Nº3</nombreVia><provincia>Provincia1</provincia></direccion></alumno></alumnos></colegio>
